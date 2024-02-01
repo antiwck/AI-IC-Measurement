@@ -32,7 +32,7 @@ The dataset and model is trained in Google Colab to utilize Google's T4 gpu to t
 </p>
 
 <br />
-3 Result 3
+3. Result 3
 <br />
 <p align="center">
   <img src="Sources/Post Processing 3.jpg" height="300"><br />
