@@ -7,7 +7,7 @@ The dataset and model is trained in Google Colab to utilize Google's T4 gpu to t
 
 <br />
 <p align="center">
-  <img src="Sources/..." width="800"><br />
+  <img src="Sources/Dataset.png" width="800"><br />
   Dataset
 </p>
 
