@@ -9,13 +9,29 @@ The dataset and model is trained in Google Colab to utilize Google's T4 gpu to t
 <p align="center">
   <img src="Sources/Dataset.png" width="800"><br />
   Dataset
+  <img src="Sources/Annotation.jpg" width="800"><br />
+  Annotation
+  <img src="Sources/Segmentation Result.jpg" width="800"><br />
+  Segmentation Result
 </p>
 
 <br />
-1. Clock follower
+1. Result 1
 <br />
 <p align="center">
-  <img src="Sources/..." width="600"><br />
-  Result
+  <img src="Sources/Post Processing 1.jpg" width="600"><br />
 </p>
-xxx<br />
+
+<br />
+1. Result 1
+<br />
+<p align="center">
+  <img src="Sources/Post Processing 2.jpg" width="600"><br />
+</p>
+
+<br />
+1. Result 1
+<br />
+<p align="center">
+  <img src="Sources/Post Processing 2.jpg" width="600"><br />
+</p>
