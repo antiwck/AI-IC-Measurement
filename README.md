@@ -19,19 +19,19 @@ The dataset and model is trained in Google Colab to utilize Google's T4 gpu to t
 1. Result 1
 <br />
 <p align="center">
-  <img src="Sources/Post Processing 1.jpg" width="600"><br />
+  <img src="Sources/Post Processing 1.jpg" height="300"><br />
 </p>
 
 <br />
 1. Result 1
 <br />
 <p align="center">
-  <img src="Sources/Post Processing 2.jpg" width="600"><br />
+  <img src="Sources/Post Processing 2.jpg" height="300"><br />
 </p>
 
 <br />
 1. Result 1
 <br />
 <p align="center">
-  <img src="Sources/Post Processing 2.jpg" width="600"><br />
+  <img src="Sources/Post Processing 2.jpg" height="300"><br />
 </p>
