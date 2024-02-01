@@ -6,6 +6,7 @@ import skimage.transform as st
 
 my_model = YOLO("yoloModel.pt")
 
+# Source is the source file to the video for AI model to work on
 source = ('E:\OneDrive - Asia Pacific University\\University\Degree Year 3\Semester 2\Machine Vision and Intelligence\Assessment\Code\Video\MV-CA013-21UC (02E24880956)\Video_20231229114120518_v2.mp4')
 cap = cv2.VideoCapture(source)
 width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
