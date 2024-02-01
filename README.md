@@ -20,18 +20,21 @@ The dataset and model is trained in Google Colab to utilize Google's T4 gpu to t
 <br />
 <p align="center">
   <img src="Sources/Post Processing 1.jpg" height="300"><br />
+  IC is detected regardless of how damaged it is. <br />
 </p>
 
 <br />
-1. Result 1
+2. Result 2
 <br />
 <p align="center">
   <img src="Sources/Post Processing 2.jpg" height="300"><br />
+  IC is detected given that both IC and coin are in perfect condition. <br />
 </p>
 
 <br />
-1. Result 1
+3 Result 3
 <br />
 <p align="center">
-  <img src="Sources/Post Processing 2.jpg" height="300"><br />
+  <img src="Sources/Post Processing 3.jpg" height="300"><br />
+  IC cannot be measured due to missing reference object. <br />
 </p>
