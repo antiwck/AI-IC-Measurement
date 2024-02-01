@@ -7,11 +7,11 @@ The dataset and model is trained in Google Colab to utilize Google's T4 gpu to t
 
 <br />
 <p align="center">
-  <img src="Sources/Dataset.png" width="800"><br />
+  <img src="Sources/Dataset.png" height="300"><br />
   Dataset<br />
-  <img src="Sources/Annotation.jpg" width="800"><br />
+  <img src="Sources/Annotation.jpg" height="300"><br />
   Annotation<br />
-  <img src="Sources/Segmentation Result.jpg" width="800"><br />
+  <img src="Sources/Segmentation Result.jpg" height="300"><br />
   Segmentation Result
 </p>
 
